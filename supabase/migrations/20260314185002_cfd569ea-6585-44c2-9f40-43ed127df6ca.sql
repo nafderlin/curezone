@@ -1,0 +1,1 @@
+ALTER TABLE public.doctor_profiles DROP CONSTRAINT IF EXISTS doctor_profiles_user_id_fkey;
